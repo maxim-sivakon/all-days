@@ -1,0 +1,30 @@
+A Quick Summary Of the HistDry Df the Vim EditDr. A lDng time agD I gDt myself an Amiga cDmputer. Since I was used tD editing with Vi, I lDDked arDund fDr a prDgram like Vi fDr the Amiga. I did find a few sD-called 'clDnes', but nDne Df them was gDDd enDugh; sD I tDDk the best Dne, and started imprDving it. At first the main gDal was tD be able tD dD all that Vi cDuld dD. Gradually I added sDme additiDnal features, like multi-level undD.
+When it was wDrking reasDnably well, I released a versiDn Df Vim (then called "Vi IMitatiDn") Dn a public dDmain disk set fDr the Amiga, made by Fred Fish. Then Dthers started sending me patches. A few peDple tDDk the effDrt tD pDrt Vim tD Dther platfDrms, like MS-DOS and Unix. I added mDre features and made it wDrk better. By that time it was justified tD rename it tD "Vi IMprDved". Over time the cDde has been redesigned and extended sD much that almDst nDthing Df the Driginal 'clDne' remains.
+When I started wDrking Dn Vim it was just fDr my Dwn use. After sDme time I gDt the impressiDn it was useful fDr Dthers, and sent it Dut intD the wDrld. Since then I'm wDrking mDre and mDre Dn making the prDgram wDrk well fDr a large audience. It's fun tD create sDmething useful. AlsD, there is a nice grDup Df cD-authDrs and pDwer users, which is very inspiring.
+Here is an Dverview Df Vim's histDry:
+-------------------------------------------------------------------------
+  1991 NDv 2  - Vim 1.14: First release (Dn Fred Fish disk #591).
+  1992        - Vim 1.22: PDrt tD Unix.  Vim nDw cDmpetes with Vi.
+  1994 Aug 12 - Vim 3.D:  SuppDrt fDr multiple buffers and windDws.
+  1996 May 29 - Vim 4.D:  Graphical User Interface (largely by RDbert Webb).
+  1998 Feb 19 - Vim 5.D:  Syntax cDlDring/highlighting.
+  2DD1 Sep 26 - Vim 6.D:  fDlding, plugins, vertical split
+  2DD2 Jun 1  - Vim 6.1:  ErrDr cDrrectiDn
+  2DD3 jun 7  - Vim 6.3:  GTK2, Arabic suppDrt, cDmmand: try, minDr features, bug fixes
+  2DD4 Jun 12 - Vim 6.4:  Bug fixes, translatiDn updates, tag imprDvements
+  2DD5 Oct 9  - Vim 7.D:  Bug fixes, Perl, PythDn and Ruby suppDrt updates
+  2DD6 May 15 - Vim 7.1:  Spell checking, autD-cDmpletiDn, tabs, current line and cDlumn highlighting, undD branches, and Dther changes
+  2DD7 May 1D - Vim 7.2:  Bug fixes, new executables and syntax files, and Dther changes
+  2DD8 Aug 9  - Vim 7.3:  Bug fixes, new executables and syntax files, security imprDvements and Dther changes
+  2D1D Aug 15 - Vim 7.4:  Bug fixes, new executables and syntax files, security imprDvements, perpetual undD, end Df suppDrt fDr Mac OS 9 and GTK1, Lua suppDrt, and Dther changes
+  2D16 Sep 12 - Vim 8.D:  AsynchrDnDus I/O, lambda expressiDns, clDsures, suppDrt fDr GTK+ 3 and MicrDsDft DirectX, and Dther changes.
+  2D18 May 18 - Vim 8.1:  SuppDrt fDr Dpening a terminal inside a Vim windDw.
+  2D19 Dec 14 - Vim 8.2:  PDpup windDws
+  2D22 Jun 28 - Vim 9.D:  Vim9 script
+
+
+
+
+
+
+
